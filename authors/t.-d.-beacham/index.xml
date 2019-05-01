@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. D. Beacham on Cameron Freshwater</title>
+    <link>https://CamFreshwater.github.io/authors/t.-d.-beacham/</link>
+    <description>Recent content in T. D. Beacham on Cameron Freshwater</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://CamFreshwater.github.io/authors/t.-d.-beacham/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Individual variation, population-specific behaviours and stochastic processes shape marine migration phenologies</title>
+      <link>https://CamFreshwater.github.io/publication/freshwater-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
+      
+      <guid>https://CamFreshwater.github.io/publication/freshwater-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation of daily increments and a marine-entry check in the otoliths of Sockeye Salmon Oncorhynchus nerka post-smolts</title>
+      <link>https://CamFreshwater.github.io/publication/freshwater-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0800</pubDate>
+      
+      <guid>https://CamFreshwater.github.io/publication/freshwater-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

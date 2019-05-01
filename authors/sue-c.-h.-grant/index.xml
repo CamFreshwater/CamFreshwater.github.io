@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sue C. H. Grant on Cameron Freshwater</title>
+    <link>https://CamFreshwater.github.io/authors/sue-c.-h.-grant/</link>
+    <description>Recent content in Sue C. H. Grant on Cameron Freshwater</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://CamFreshwater.github.io/authors/sue-c.-h.-grant/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coherent population dynamics associated with sockeye salmon juvenile life history strategies</title>
+      <link>https://CamFreshwater.github.io/publication/freshwater-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0800</pubDate>
+      
+      <guid>https://CamFreshwater.github.io/publication/freshwater-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of density during freshwater and early marine rearing on juvenile sockeye salmon size, growth, and migration</title>
+      <link>https://CamFreshwater.github.io/publication/freshwater-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      
+      <guid>https://CamFreshwater.github.io/publication/freshwater-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

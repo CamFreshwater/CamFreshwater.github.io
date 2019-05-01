@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chrys-Ellen Neville on Cameron Freshwater</title>
+    <link>https://CamFreshwater.github.io/authors/chrys-ellen-neville/</link>
+    <description>Recent content in Chrys-Ellen Neville on Cameron Freshwater</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://CamFreshwater.github.io/authors/chrys-ellen-neville/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Disentangling individual- and population-scale processes within a latitudinal size-gradient in Sockeye Salmon</title>
+      <link>https://CamFreshwater.github.io/publication/freshwater-2016-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0800</pubDate>
+      
+      <guid>https://CamFreshwater.github.io/publication/freshwater-2016-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Divergent migratory behaviours associated with body size and ocean entry phenology in juvenile sockeye salmon</title>
+      <link>https://CamFreshwater.github.io/publication/freshwater-2016-b/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0800</pubDate>
+      
+      <guid>https://CamFreshwater.github.io/publication/freshwater-2016-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
